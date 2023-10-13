@@ -1,4 +1,4 @@
-# Code by James Sprague
+# Code by James Sprague 
 
 # Original game by Josh Wardle
 # This is just a program I made for fun and to practice Python
